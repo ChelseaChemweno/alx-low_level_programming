@@ -2,9 +2,9 @@
 /**
  * main - entry point
  *
- * Return : 0 after prenting the function
+ * Return : should end with the value 0
  */
-int main(void)
+int main(void)/*no value*/
 {puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
