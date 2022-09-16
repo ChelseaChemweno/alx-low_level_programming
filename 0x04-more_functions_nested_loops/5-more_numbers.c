@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * more_numbers -prints numbers to 14
+ * more_numbers - prints numbers to 14
  * return: returns nothing
  */
 void more_numbers(void)
@@ -19,8 +19,8 @@ putchar ((n2 / 10) + '0');
 }
 putchar ((n2 % 10) + '0');
 }
-putchar (n2);
-}
 putchar (10);
+}
+
 }
 
