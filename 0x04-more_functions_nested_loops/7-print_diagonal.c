@@ -21,7 +21,7 @@ putchar(' ');
 			}
 putchar ('\\');
 
-while  (len == (n - 1))
+if (len == (n - 1))
 {
 continue;
 }
